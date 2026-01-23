@@ -3,9 +3,8 @@
 "Professional Dumbass" - Dani
 
 <p align="center">
-  <strong><a href="https://www.linkedin.com/in/andreas-gr%C3%B8nbeck-1730942b0/">LinkedIn</a></strong> |
+  | <strong><a href="https://www.linkedin.com/in/andreas-gr%C3%B8nbeck-1730942b0/">LinkedIn</a></strong> |
   <strong><a href="https://discord.com/users/292010252185108484">Discord</a></strong> |
-  <strong><a href="https://steamcommunity.com/id/kniksen1814/">Steam</a></strong> |
 </p>
 
 ## Contact
@@ -42,4 +41,4 @@
 *Technologies that I want to take a look at in the future*
 
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
