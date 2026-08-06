@@ -13,6 +13,8 @@ Entur publishes realtime arrival estimates but no history, so I archive both the
 
 **[Tenki Labs](https://tenki.no/)** — Cofounder. Norwegian AI lab training and serving local LLMs on hardware we own, with open benchmarks for Norwegian. I work on [Hugin and Munin](https://tenki.no/modeller), our Norwegian fine-tunes, and on the [research](https://tenki.no/publiseringer) around them.
 
+**[Machine Learning and Artificial Intelligence](https://www.uio.no/studier/program/maskinlering-kunstig-intelligens/)** — BSc at the University of Oslo.
+
 ## Technologies
 
 ### Familiar with
