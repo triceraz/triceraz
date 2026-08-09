@@ -1,4 +1,9 @@
-# Andreas Grønbeck
+<h1 align="center">Andreas Grønbeck</h1>
+
+<p align="center">
+  BSc student in <a href="https://www.uio.no/studier/program/maskinlering-kunstig-intelligens/">Machine Learning and Artificial Intelligence</a><br>
+  at the University of Oslo, graduating 2028.
+</p>
 
 <p align="center">
   | <strong><a href="https://www.linkedin.com/in/andreas-gr%C3%B8nbeck-1730942b0/">LinkedIn</a></strong> |
@@ -9,11 +14,17 @@
 
 **[Punktlig](https://github.com/triceraz/Punktlig)** — Machine learning models that beat Entur's official public transport delay predictions.
 
-Entur publishes realtime arrival estimates but no history, so I archive both the predictions and the ground truth and train against the live production system as the baseline. Gradient boosted trees on a time-based split with no lookahead: **23% lower MAE than Entur's own estimates**, weighted across horizons, on 167k held-out rows. The README documents the ablations, the learning curve, and the cases where the model loses.
+Entur publishes realtime arrival estimates but no history, so I archive both the predictions and the ground truth and train against the live production system as the baseline. Gradient boosted trees on a time-based split with no lookahead: **23% lower MAE than Entur's own estimates**, weighted across horizons, on 167k held-out rows. Quantile regression adds calibrated arrival intervals, which the official feed does not offer at all.
 
-**[Tenki Labs](https://tenki.no/)** — Cofounder. Norwegian AI lab training and serving local LLMs on hardware we own, with open benchmarks for Norwegian. I work on [Hugin and Munin](https://tenki.no/modeller), our Norwegian fine-tunes, and on the [research](https://tenki.no/publiseringer) around them.
+The README documents the ablations, the learning curve, and the cases where the model loses.
 
-**[Machine Learning and Artificial Intelligence](https://www.uio.no/studier/program/maskinlering-kunstig-intelligens/)** — BSc at the University of Oslo.
+## Previously
+
+**[Tenki Labs](https://tenki.no/)** — Cofounder, 2026. Norwegian AI lab training and serving local LLMs on hardware it owns, with open benchmarks for Norwegian. I was the lead developer and worked on [Hugin and Munin](https://tenki.no/modeller), the Norwegian fine-tunes, and on the [research](https://tenki.no/publiseringer) around them. Sold and exited in 2026.
+
+## Other projects
+
+**[LMC Simulator](https://github.com/triceraz/lmc-simulator)** — A Little Man Computer assembler and executor in Python, with branch labels, ASCII output and a library of example programs. Built because the browser-based simulator we were recommended in IN1020 was old, couldn't save anything, and I wanted something that ran in the terminal.
 
 ## Technologies
 
